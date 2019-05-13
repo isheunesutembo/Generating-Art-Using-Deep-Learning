@@ -19,3 +19,7 @@
 </ul>
 
 <p>Full turtorial in the jupyter notebook above<p/>
+
+<p>Paper Link Below</p>
+
+https://arxiv.org/abs/1508.06576
