@@ -3,6 +3,7 @@
 <p>Deep learning is the field responsible for self driving cars and facial recognition systems like FaceID on apple devices. In this repo we use deep learning to generate artistic images. A deep convnet is given a content image and a style image and it merges the two preserving content features such as head ,eyes and ears if the content image is a dog image , and preserve the style texture.The style image is usually paintings or ancient art drawings </p>
 
 <p> Content Image </p>
+
 ![Content Image](./images/contentimage.png)
 
 <p> Style Image </p>
